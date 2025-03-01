@@ -22,7 +22,7 @@ body {
   position: relative;
 }
 header h1 {
-  font-family: "Monaco", monospace;
+  font-family: "Monego Ligatures", monospace;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -57,7 +57,7 @@ header h1 {
 }
 .upperCard span, .lowerCard span {
   font-size: 5em;
-  font-family: "Monaco", monospace;
+  font-family: "Monego Ligatures", monospace;
   font-weight: bold;
   color: #FFFFFF;
 }
@@ -94,7 +94,7 @@ header h1 {
           backface-visibility: hidden;
 }
 .flipCard span {
-  font-family: "Monaco", monospace;
+  font-family: "Monego Ligatures", monospace;
   font-size: 5em;
   font-weight: bold;
   color: #FFFFFF;
