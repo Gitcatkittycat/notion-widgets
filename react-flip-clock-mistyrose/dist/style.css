@@ -38,8 +38,8 @@ header h1 {
 .flipUnitContainer {
   display: block;
   position: relative;
-  width: 140px;
-  height: 150px;
+  width: 150px;
+  height: 160px;
   perspective-origin: 50% 50%;
   perspective: 300px;
   background-color: mistyrose;
