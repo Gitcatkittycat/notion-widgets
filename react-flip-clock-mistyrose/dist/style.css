@@ -32,7 +32,7 @@ header h1 {
 .flipClock {
   display: flex;
   justify-content: space-between;
-  width: 282px;
+  width: 283px;
 }
 
 .flipUnitContainer {
